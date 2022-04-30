@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1547373225 source:c:\users\stefan\desktop\statki\main.cpp
+	"st1.h"
+	<allegro.h>
+
+1547372131 c:\users\stefan\desktop\statki\st1.h
+	"timer.h"
+	"bufor.h"
+	"grafika.h"
+	<winalleg.h>
+	<windows.h>
+	<string.h>
+
+1547372206 c:\users\stefan\desktop\statki\timer.h
+	<time.h>
+
+1470135549 c:\users\stefan\desktop\statki\bufor.h
+	<allegro.h>
+
+1547373836 c:\users\stefan\desktop\statki\grafika.h
+	"bufor.h"
+	<allegro.h>
+	<string>
+	<stdio.h>
+
